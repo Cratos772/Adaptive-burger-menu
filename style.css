@@ -65,7 +65,8 @@ body._lock {
   position: relative;
   width: 40px;
   height: 40px;
-  background-color: #fff;
+  background: url('logo.png') center no-repeat;
+  background-size: cover;
   border-radius: 50%;
   border: none;
   outline: none;
